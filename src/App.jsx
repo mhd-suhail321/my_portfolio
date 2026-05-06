@@ -64,7 +64,7 @@ function App() {
             {/* Download Resume Button */}
             <div className="pt-2">
               <a 
-                href="/resume.pdf" 
+                href="/Mohamed suhail afreeth.pdf" 
                 download="Suhail_Resume.pdf"
                 className="group relative inline-flex h-12 items-center justify-center overflow-hidden rounded-md bg-white px-8 font-bold text-black transition-all duration-300 hover:bg-gray-200 hover:scale-105 hover:shadow-[0_0_20px_-5px_rgba(255,255,255,0.5)]"
               >

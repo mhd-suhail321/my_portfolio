@@ -12,7 +12,7 @@ const SkillsSection = () => {
   const problemSolvingStats = [
     { 
       name: "LeetCode", 
-      stat: "250+ Solved", 
+      stat: "350+ Solved", 
       sub: "Active Solver",
       icon: <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" className="w-full h-full object-contain rounded-full" />,
       link: "https://leetcode.com/", 

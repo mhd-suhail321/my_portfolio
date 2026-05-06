@@ -99,7 +99,7 @@ const ContactSection = () => {
                     type="text" 
                     name="user_name" 
                     required 
-                    placeholder="John Doe"
+                    placeholder="Eg.Mohamed Suhail"
                     className="w-full bg-zinc-950 border border-zinc-800 rounded-lg px-4 py-3 text-white focus:outline-none focus:border-indigo-500 transition-colors"
                   />
                 </div>
@@ -109,7 +109,7 @@ const ContactSection = () => {
                     type="email" 
                     name="user_email" 
                     required 
-                    placeholder="john@example.com"
+                    placeholder="Eg.suhailafreeth@gmail.com"
                     className="w-full bg-zinc-950 border border-zinc-800 rounded-lg px-4 py-3 text-white focus:outline-none focus:border-indigo-500 transition-colors"
                   />
                 </div>
